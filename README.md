@@ -9,6 +9,7 @@ Converts /cmd_vel topic to i2c register settings for the PCA9685 to control a di
 
 ToDo:
 - Add feedback mechanism using wheel encoders
+- Add runaway timeout protection
 
 Created from these tutorials:
 - https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html
